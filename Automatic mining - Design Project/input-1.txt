@@ -1,0 +1,7 @@
+5 11 50 50
+usbf_idma_bench/usbf_idma_/siz_dec usbf_idma_bench/usbf_idma_/rd_first usbf_idma_bench/usbf_idma_/sizd_c usbf_idma_bench/usbf_idma_/mack_r usbf_idma_bench/usbf_idma_/mack usbf_idma_bench/usbf_idma_/word_done_r usbf_idma_bench/usbf_idma_/r0_data_valid usbf_idma_bench/usbf_idma_/mreq_d usbf_idma_bench/usbf_idma_/siz_inc usbf_idma_bench/usbf_idma_/t0_dma_en usbf_idma_bench/usbf_idma_/t0_dma_en_r
+0 0 0 0 0 0 0 0 0 1 1
+1 0 0 0 0 0 0 1 0 1 1
+1 0 0 0 0 0 0 1 0 1 1
+1 0 0 0 0 0 0 1 0 1 1
+1 0 0 0 0 0 0 1 0 1 1
